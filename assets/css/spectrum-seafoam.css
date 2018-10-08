@@ -110,7 +110,7 @@ body {
   min-height: 100%;
 }
 body {
-  font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Lora", "Lato", Helvetica, Arial, sans-serif;
   font-weight: normal;
   text-transform: none;
   font-size: 16px;
@@ -121,7 +121,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Pacifico", "Lato", Helvetica, Arial, sans-serif;
 }
 h1 {
   font-size: 40px;
@@ -133,7 +133,7 @@ p {
   margin: 0 0 20px;
 }
 .serif {
-  font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Lora", "Lato", Helvetica, Arial, sans-serif;
   font-weight: normal;
   text-transform: none;
 }
