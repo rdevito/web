@@ -117,7 +117,7 @@ body {
   min-height: 100%;
 }
 body {
-  font-family: "Lora", "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Helvetica Neue", sans-serif;
   font-weight: normal;
   text-transform: none;
   font-size: 16px;
@@ -128,7 +128,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", "Lato", "Helvetica Neue", "Arial", sans-serif;
+  font-family: "Montserrat", "Lato", "Helvetica Neue", sans-serif;
 }
 h1 {
   font-size: 40px;
@@ -140,18 +140,18 @@ p {
   margin: 0 0 20px;
 }
 .serif {
-  font-family: "Lora", "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Lato", sans-serif;
   font-weight: normal;
   text-transform: none;
 }
 .sans-serif {
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Helvetica Neue", sans-serif;
 }
 .heading {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Montserrat", "Helvetica Neue", sans-serif;
 }
 .script {
-  font-family: "Pacifico", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Pacifico", "Helvetica Neue", sans-serif;
 }
 .allcaps {
   text-transform: uppercase !important;
@@ -241,7 +241,7 @@ a.light-text:focus {
 }
 .navbar {
   text-transform: uppercase;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Montserrat", "Helvetica Neue", sans-serif;
   font-size: 14px;
 }
 .navbar-dark,
@@ -444,7 +444,7 @@ a.light-text:focus {
 .intro-video .intro-welcome {
   font-size: 20px;
   margin: 0;
-  font-family: "Pacifico", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Pacifico", "Helvetica Neue", sans-serif;
   text-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
 }
 .intro-img .brand-heading,
@@ -1825,7 +1825,7 @@ ul#filters li button.btn-link.active {
 }
 .btn {
   text-transform: uppercase;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Montserrat", "Helvetica Neue", sans-serif;
   font-weight: 400;
 }
 .btn:hover,
