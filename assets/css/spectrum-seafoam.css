@@ -133,7 +133,7 @@ p {
   margin: 0 0 20px;
 }
 .serif {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   text-transform: none;
 }
