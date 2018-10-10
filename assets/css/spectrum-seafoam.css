@@ -445,7 +445,7 @@ a.light-text:focus {
 .intro-slider .brand-heading,
 .intro-slider-half .brand-heading,
 .intro-video .brand-heading {
-  font-size: 10px;
+  font-size: 30px;
   margin: 0;
   text-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
   text-transform: uppercase;
@@ -520,7 +520,7 @@ a.light-text:focus {
   .intro-video .brand-heading,
   .intro-img-half .brand-heading,
   .intro-slider-half .brand-heading {
-    font-size: 70px;
+    font-size: 40px;
   }
 }
 .intro-img,
