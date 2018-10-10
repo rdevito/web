@@ -3,7 +3,6 @@
  * Copyright 2013-2015 Start Bootstrap Themes
  * To use this theme you must have a license purchased at WrapBootstrap (https://wrapbootstrap.com)
  */
-
 body {
   height: 100%;
   color: #3e444d;
@@ -111,7 +110,7 @@ body {
   min-height: 100%;
 }
 body {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   text-transform: none;
   font-size: 16px;
@@ -122,7 +121,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", "Lato", "Helvetica Neue", "Arial", sans-serif;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 h1 {
   font-size: 40px;
